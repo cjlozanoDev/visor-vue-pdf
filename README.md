@@ -1,6 +1,5 @@
 # visor-pdf-vue
-
-This template should help get you started developing with Vue 3 in Vite.
+This is a project for a pdf viewer with vue and the pdfjs-dist library.
 
 ## Recommended IDE Setup
 
